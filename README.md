@@ -41,7 +41,6 @@
 ## 個人作品
 
 1. [電商網站](https://simpsons01.github.io/PAgame/#/)
-    * [github](https://github.com/simpsons01/PAgame)
     * 使用 Vue cli3搭建開發環境
     * 使用 Bootstrap4、SASS 開發RWD
     * 使用 Vuex 管理各個組件的統一資料
