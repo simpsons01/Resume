@@ -1,6 +1,6 @@
 # 朱紬儒(Ray)
-* Education: 中興大學進修部外文系系
-* Mobile: 0979619900
+* 教育程度: 中興大學進修部外文系系
+* 手機: 0979619900
 * E-Mail: ilikekobe01@gmail.com
 
 ## 實習經歷
